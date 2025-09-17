@@ -1,0 +1,25 @@
+English,Português
+Low Risk of Chronic Arthralgia,Baixo Risco
+High Risk of Chronic Arthralgia,Alto Risco
+Sex,Sexo
+Hypertension,Hipertensão
+Edema,Edema
+Retro-Orbital Pain,Dor retro-ocular
+Age,Idade
+This Scoring System was designed to predict the risk chronic arthralgia in patients with chikungunya virus infection.,Este sistema de pontuação foi projetado para prever o risco de artralgia crônica em pacientes com infecção pelo vírus chikungunya.
+Absent,Ausente
+Present,Presente
+"If you use the SHERA Scoring System in your work, please cite the following:","Se você usar o Sistema de Pontuação SHERA em seu trabalho, cite o seguinte:  "
+Results,Resultado
+SHERA Score Value,Valor do escore SHERA
+Which resulted in a prediction of ,Previsão de
+Male,Homem
+Female,Mulher
+≤ 26 years old,≤ 26 anos
+>26 years old,>26 anos
+Choose language,Escolha o idioma
+About,Sobre
+The additional parameters and ROC curve are shown in the figure bellow,Os parâmetros adicionais e curva ROC são mostrados na figura abaixo
+"Our model presented a sensitivity of 84% in the derivation cohort and 94% in the validation cohort, 
+                   with an accuracy of 81% and 76% in the derivation and validation cohort, respectively.","Nosso modelo apresentou sensibilidade de 84% na coorte de deviração e 94% na coorte de validação, com uma acurácia de 81% e 76% nas coortes de deviração e validação, respectivamente."
+Read our paper:,Leia nosso artigo em:
