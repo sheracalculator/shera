@@ -5,7 +5,7 @@ This Scoring System was designed to predict the risk chronic arthralgia in patie
 Our model presented a sensitivity of 84% in the derivation cohort and 94% in the validation cohort, with an accuracy of 81% and 76% in the derivation and validation cohort, respectively.
 The additional parameters and ROC curve are shown in the figure bellow:
 
- ![shera_parameters](/code/www/parameters.jpg)
+ ![shera_parameters](/sc/www/parameters.jpg)
 
 ### If you use the SHERA Scoring System in your work, please cite the following:
 
